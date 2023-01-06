@@ -5,4 +5,4 @@
 
 ## JavaScript examples
 1. [JavaScript date and clock](https://ozanbayramm.github.io/JavaScriptBasicProjects/JavaScript-Saat-Ve-Karsilama-Odevi/index)
-2. 
+2. [To Do List with javascript.](https://ozanbayramm.github.io/toDoListProjects/)
