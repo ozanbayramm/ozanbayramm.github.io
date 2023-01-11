@@ -3,8 +3,7 @@
 ## HTML and CSS examples
 1. [Bootstrap Linkedin Clone](https://ozanbayramm.github.io/Bootstrap-Linkedin-Clone/)
 
-## JavaScript examples
+## [JavaScript examples](https://ozanbayramm.github.io/JavaScriptBasicProjects/)
 1. [JavaScript date and clock](https://ozanbayramm.github.io/JavaScriptBasicProjects/JavaScript-Saat-Ve-Karsilama-Odevi/index)
-
 2. [To Do List with javascript.](https://ozanbayramm.github.io/toDoListProjects/)
-
+3. [Asian Kitchen](https://ozanbayramm.github.io/JavaScriptBasicProjects/asianKitchen/)
